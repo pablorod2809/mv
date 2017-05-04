@@ -1,0 +1,23 @@
+LOS FLUJOS IDENTIFICADOS SON:
+
+ALTA DE POLIZA AUTO NUEVO CLIENTE:
+  * Alta de cliente: pantalla que pide los datos Nombre, Apellido, FechaNac, Sexo, Telefono, lugar de Residencia), por defecto: sexo masc, lugar residencia: Mar del Plata.
+  * Consulta de clientes: listado de clientes donde se muestra (Nombre y Apellido) al hacer click muestra todos los datos del cliente.
+     * Modificacion / Eliminacion de clientes: agregar los datos faltantes (DNI, Tipo IVA, Domicilio)
+  * Agregar cosa asegurada: opcion para seleccionar los tipos de cosas aseguradas (auto, casa, comercio, art, vida)
+     * Agregar vehiculos: accion que permite cargar datos de un vehiculo al asegurado.
+  * Consulta de cosas aseguradas: listado de cosas que tiene aseguradas el cliente 
+     * Agregar solicitud cotizacion vehivulos
+       * Agregar Opciones A,B,C.
+       * Marcar opcion seleccionada.
+     * Consulta de Polizas:
+       * Agregar Nro Inspeccion
+       * Ver solicitud descargaada.
+       * marcar llegada de poliza: agrega el numero.
+     * Modificacion / Eliminacion de vehiculos:
+ 
+ COBRANZA de CUOTAS:
+   * Pendiente
+   
+ CTA. CTE y PAGOS:
+   * Pendientes    
